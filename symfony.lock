@@ -222,6 +222,9 @@
             "ref": "0dc9cceda799fd3a08b96987e176a261028a3709"
         }
     },
+    "stripe/stripe-php": {
+        "version": "v7.77.0"
+    },
     "symfony/asset": {
         "version": "v5.2.3"
     },
